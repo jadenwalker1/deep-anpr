@@ -1,3 +1,6 @@
 The test data is present - these are files that are randomly generated with the fake reg plate added 
 When adding the fake plate - we want to also add the bounding box to an xml, we will have the coords during the reg addition, so, for each we call a function to
 create an xml which has the same file name and contains the bounding box. 
+
+
+https://www.pyimagesearch.com/2015/03/23/sliding-windows-for-object-detection-with-python-and-opencv/
